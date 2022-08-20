@@ -19,6 +19,6 @@ Let's change the _config.yml so it's a perfect fit for your new blog. First, we 
 
 # social links
 twitter_username: mah-shamim # DO NOT include the @ character, or else the build will fail!
-github_username:  mah.shamim # DO NOT include the @ character, or else the build will fail!
+github_username:  mah-shamim # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
